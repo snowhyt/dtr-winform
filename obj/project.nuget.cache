@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RY1tjVst2TM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nino oliver\\source\\repos\\DTR-calculator\\DTR-calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nino oliver\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\nino oliver\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
