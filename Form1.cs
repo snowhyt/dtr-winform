@@ -13,7 +13,7 @@ namespace DTR_calculator
             DateTimePicker TimeOutPicker,
             bool hasBreak,
             DateTimePicker BreakInPicker,
-            DateTimePicker BreakOutPicker,
+            DateTimePicker BreakOutPicker
            ) 
         {
 
@@ -21,26 +21,20 @@ namespace DTR_calculator
             
             DateTime timeIn = TimeInPicker.Value;
             DateTime timeOut = TimeOutPicker.Value;
-            DateTime breakIn = BreakInPicker.Value;
-            DateTime breakOut = BreakOutPicker.Value;
+            
 
             TimeSpan schedIn;
             TimeSpan schedOut;
             TimeSpan schedHours;
             TimeSpan renderedTime;
-
+            TimeSpan breakTime;
             switch (selectedSchedule)
             {
                 case "4:00AM - 1:00PM":
                     schedIn = new TimeSpan(4, 0, 0);
                     schedOut = new TimeSpan(13, 0, 0);
 
-                    TimeCalculation(TimeInPicker, TimeOutPicker, schedIn, schedOut);
-
-                    if (hasBreak) 
-                    {
-                        
-                    }
+                        TimeCalculation(BreakInPicker, BreakOutPicker, TimeInPicker, TimeOutPicker, schedIn, schedOut, hasBreak);
 
                     //if(timeIn < DateTime.Today + schedIn || timeOut >DateTime.Today + schedOut)
                     //{
@@ -81,11 +75,24 @@ namespace DTR_calculator
         public static void TimeCalculation(
             DateTimePicker TimeInPicker,
             DateTimePicker TimeOutPicker,
+            DateTimePicker BreakInPicker,
+            DateTimePicker BreakOutPicker,
+
             TimeSpan schedIn,
-            TimeSpan schedOut) 
+            TimeSpan schedOut,
+            bool hasBreak
+            ) 
         {
             DateTime timeIn = TimeInPicker.Value;
-            DateTime timeOut = TimeOutPicker.Value; 
+            DateTime timeOut = TimeOutPicker.Value;
+            DateTime breakIn = BreakInPicker.Value;
+            DateTime breakOut = BreakOutPicker.Value;
+
+            TimeSpan renderedTime;
+            TimeSpan breakTime;
+            TimeSpan totalrenderedTime;
+            TimeSpan underTime;
+            TimeSpan lateTime;
 
             if (timeIn < DateTime.Today + schedIn || timeOut > DateTime.Today + schedOut)
             {
@@ -99,14 +106,17 @@ namespace DTR_calculator
                 //late
                 if (timeIn > DateTime.Today + schedIn)
                 {
-                    TimeSpan lateTime = timeIn - (DateTime.Today + schedIn);
+                   lateTime = timeIn - (DateTime.Today + schedIn);
                 }
 
                 //undertime
-                else if (timeOut < DateTime.Today + schedOut)
+                if (timeOut < DateTime.Today + schedOut)
                 {
-                    TimeSpan undertime = (DateTime.Today + schedOut) - timeOut;
+                    underTime = (DateTime.Today + schedOut) - timeOut;
                 }
+
+                //total late
+                TimeSpan totalLate = (DateTime.Today + underTime)+lateTime;
 
             }
 

@@ -81,23 +81,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nino oliver\\.nuget\\packages\\": {},
+    "C:\\Users\\oliverDev\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nino oliver\\source\\repos\\DTR-calculator\\DTR-calculator.csproj",
+      "projectUniqueName": "D:\\Libraries\\Documents\\Visual Studio 2022\\repo\\dtr-winform-repo\\dtr-winform\\DTR-calculator.csproj",
       "projectName": "DTR-calculator",
-      "projectPath": "C:\\Users\\nino oliver\\source\\repos\\DTR-calculator\\DTR-calculator.csproj",
-      "packagesPath": "C:\\Users\\nino oliver\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nino oliver\\source\\repos\\DTR-calculator\\obj\\",
+      "projectPath": "D:\\Libraries\\Documents\\Visual Studio 2022\\repo\\dtr-winform-repo\\dtr-winform\\DTR-calculator.csproj",
+      "packagesPath": "C:\\Users\\oliverDev\\.nuget\\packages\\",
+      "outputPath": "D:\\Libraries\\Documents\\Visual Studio 2022\\repo\\dtr-winform-repo\\dtr-winform\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nino oliver\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oliverDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -125,7 +125,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -155,7 +155,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

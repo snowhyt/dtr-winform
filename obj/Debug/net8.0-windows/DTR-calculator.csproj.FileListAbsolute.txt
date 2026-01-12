@@ -21,3 +21,27 @@ C:\Users\nino oliver\source\repos\DTR-calculator\bin\Debug\net8.0-windows\runtim
 C:\Users\nino oliver\source\repos\DTR-calculator\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
 C:\Users\nino oliver\source\repos\DTR-calculator\obj\Debug\net8.0-windows\DTR-calculator.csproj.AssemblyReference.cache
 C:\Users\nino oliver\source\repos\DTR-calculator\obj\Debug\net8.0-windows\DTR-calc.4D60D645.Up2Date
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\bin\Debug\net8.0-windows\DTR-calculator.exe
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\bin\Debug\net8.0-windows\DTR-calculator.deps.json
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\bin\Debug\net8.0-windows\DTR-calculator.runtimeconfig.json
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\bin\Debug\net8.0-windows\DTR-calculator.dll
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\bin\Debug\net8.0-windows\DTR-calculator.pdb
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\obj\Debug\net8.0-windows\DTR-calculator.csproj.AssemblyReference.cache
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\obj\Debug\net8.0-windows\DTR_calculator.Form1.resources
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\obj\Debug\net8.0-windows\DTR-calculator.csproj.GenerateResource.cache
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\obj\Debug\net8.0-windows\DTR-calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\obj\Debug\net8.0-windows\DTR-calculator.AssemblyInfoInputs.cache
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\obj\Debug\net8.0-windows\DTR-calculator.AssemblyInfo.cs
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\obj\Debug\net8.0-windows\DTR-calculator.csproj.CoreCompileInputs.cache
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\obj\Debug\net8.0-windows\DTR-calculator.sourcelink.json
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\obj\Debug\net8.0-windows\DTR-calc.4D60D645.Up2Date
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\obj\Debug\net8.0-windows\DTR-calculator.dll
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\obj\Debug\net8.0-windows\refint\DTR-calculator.dll
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\obj\Debug\net8.0-windows\DTR-calculator.pdb
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\obj\Debug\net8.0-windows\DTR-calculator.genruntimeconfig.cache
+D:\Libraries\Documents\Visual Studio 2022\repo\dtr-winform-repo\dtr-winform\obj\Debug\net8.0-windows\ref\DTR-calculator.dll

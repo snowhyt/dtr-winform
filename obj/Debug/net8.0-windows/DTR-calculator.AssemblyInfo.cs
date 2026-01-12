@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DTR-calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d32e82b7ebec8559d33ff5be6c2cec58f85f40f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DTR-calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DTR-calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
